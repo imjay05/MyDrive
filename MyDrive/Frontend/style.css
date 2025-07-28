@@ -27,7 +27,7 @@
 }
 
 * {
-margin: 0;
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
@@ -152,6 +152,7 @@ body {
 
         /* Header Styles */
 .header {
+<<<<<<< HEAD
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -219,6 +220,18 @@ body {
      border-color: var(--primary-blue);
      background: var(--background-secondary);
      box-shadow: 0 0 0 3px var(--primary-blue-light);
+=======
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 24px 32px;
+            background: var(--background-secondary);
+            border-bottom: 1px solid var(--border-light);
+            box-shadow: var(--shadow-sm);
+            position: sticky;
+            top: 0;
+            z-index: 10;
+>>>>>>> 9ae0bee629c726266bd4f46513bb17a16868470c
         }
 
 /* Content Area */
