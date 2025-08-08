@@ -62,7 +62,8 @@ http://localhost:8080
 ##📷 UI Preview
 <img width="1920" height="905" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/7927f093-e00a-4486-aca1-249711c68504" />
 
-##🤝 Contributing
+🤝 Contributing
+
 Contributions are welcome!
 Follow these steps to contribute:
 
@@ -76,5 +77,6 @@ git push origin feature/feature-name
 Create a Pull Request
 
 🙋‍♂️ Author
+
 Jay Shlke
 📫 github.com/imjay05
