@@ -59,7 +59,7 @@ Access the App
 Open your browser and visit:
 http://localhost:8080
 
-##📷 UI Preview
+📷 UI Preview
 <img width="1920" height="905" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/7927f093-e00a-4486-aca1-249711c68504" />
 
 🤝 Contributing
